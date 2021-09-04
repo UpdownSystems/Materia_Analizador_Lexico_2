@@ -1,0 +1,7 @@
+ENCENDER; 
+PARPADEAR_LED(pl); 
+VEL={1}; 
+TIME_S={5}; 
+LICUAR(1,5); 
+PARPADEAR(pl); 
+APAGAR; 

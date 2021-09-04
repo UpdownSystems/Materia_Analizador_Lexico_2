@@ -1,0 +1,10 @@
+ENCENDER; 
+PARPADEAR(pl); 
+VEL={1}; 
+TIME_S={5}; 
+LICUAR(1,5); 
+STOP(1,5); 
+PARPADEAR(pl); 
+LICUAR(1,5); 
+STOP(pl); 
+APAGAR; 
